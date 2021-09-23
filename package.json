@@ -1,0 +1,23 @@
+{
+  "name": "ramito-de-violetas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ganache": "ganache-cli --accounts 10 --defaultBalanceEther 100000 -d -i 1337 -l 12000000 -h 0.0.0.0 --allowUnlimitedContractSize true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasbn/ramito-de-violetas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasbn/ramito-de-violetas/issues"
+  },
+  "homepage": "https://github.com/matiasbn/ramito-de-violetas#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "prettier": "^2.4.1"
+  }
+}

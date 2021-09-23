@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: front end cleaned">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.env.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.solhint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/.solhintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/contracts/Greeter.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/hardhat.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/scripts/deploy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/test/sample-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yYbVoZqmqttUoqfIlGnojRW2F4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ganache" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="ganache" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.ganache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="" />
+      <created>1632431494916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632431494916</updated>
+      <workItem from="1632431496121" duration="2141000" />
+      <workItem from="1632433804605" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: initial commit">
+      <created>1632432390636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632432390636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: front end cleaned">
+      <created>1632433309563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632433309563</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: initial commit" />
+    <MESSAGE value="feat: front end cleaned" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: front end cleaned" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
