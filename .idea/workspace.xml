@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: start script">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: post install script">
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1632431496121" duration="2141000" />
       <workItem from="1632433804605" duration="249000" />
       <workItem from="1632434065278" duration="1240000" />
-      <workItem from="1632435522891" duration="9000" />
+      <workItem from="1632435522891" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1632432390636</created>
@@ -116,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632434440172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="chore: deploy pendant">
+      <created>1632435546196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632435546196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: post install script">
+      <created>1632435688402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632435688402</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +166,9 @@
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="feat: readme" />
     <MESSAGE value="feat: start script" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: start script" />
+    <MESSAGE value="chore: deploy pendant" />
+    <MESSAGE value="feat: post install script" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: post install script" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
