@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: readme">
+    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: start script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <updated>1632431494916</updated>
       <workItem from="1632431496121" duration="2141000" />
       <workItem from="1632433804605" duration="249000" />
-      <workItem from="1632434065278" duration="356000" />
+      <workItem from="1632434065278" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1632432390636</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632434330961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: start script">
+      <created>1632434440172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632434440172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +149,8 @@
     <MESSAGE value="feat: front end cleaned" />
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="feat: readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: readme" />
+    <MESSAGE value="feat: start script" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: start script" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
