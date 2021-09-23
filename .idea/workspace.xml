@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: start script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
       <workItem from="1632431496121" duration="2141000" />
       <workItem from="1632433804605" duration="249000" />
       <workItem from="1632434065278" duration="1240000" />
+      <workItem from="1632435522891" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1632432390636</created>
