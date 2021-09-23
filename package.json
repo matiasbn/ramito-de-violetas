@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ganache": "ganache-cli --accounts 10 --defaultBalanceEther 100000 -d -i 1337 -l 12000000 -h 0.0.0.0 --allowUnlimitedContractSize true"
+    "ganache": "ganache-cli --accounts 10 --defaultBalanceEther 100000 -d -i 1337 -l 12000000 -h 0.0.0.0 --allowUnlimitedContractSize true",
+    "start": "cd frontend && npm run start"
   },
   "repository": {
     "type": "git",

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: initial commit" />
+    <list default="true" id="ae581ad3-50d0-4f56-9c84-cd6b6db5b2b9" name="Default Changelist" comment="feat: readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -37,7 +41,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
     <configuration name="ganache" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -48,8 +52,19 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.ganache" />
       </list>
     </recent_temporary>
@@ -64,7 +79,7 @@
       <updated>1632431494916</updated>
       <workItem from="1632431496121" duration="2141000" />
       <workItem from="1632433804605" duration="249000" />
-      <workItem from="1632434065278" duration="250000" />
+      <workItem from="1632434065278" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1632432390636</created>
@@ -87,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632434131218</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: readme">
+      <created>1632434330961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632434330961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: front end cleaned" />
     <MESSAGE value="feat: initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: initial commit" />
+    <MESSAGE value="feat: readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: readme" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
